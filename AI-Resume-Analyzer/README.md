@@ -4,12 +4,7 @@
 
 # **Let's connect :**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/karthikeyanrathinam/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karthikeyan-rathinam/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@linkagethink)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:karthikeyanr1801@gmail.com)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)][(https://github.com/thippeshr/AI-Resume-Analyzer)]
 
 Resume Analyzer is a Python tool that analyzes job descriptions and resumes to determine the matching percentage and provides insights on skills improvement.
 
@@ -34,7 +29,7 @@ To install Resume Analyzer, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/karthikeyanrathinam/resume-analyzer.git
+    git clone https:
     ```
 
 2. Navigate to the project directory:
@@ -82,16 +77,3 @@ Resume Analyzer relies on the following libraries and tools:
 - PyPDF2: for parsing PDF files.
 - NLTK: for natural language processing.
 - Plotly: for generating visualizations.
-
-## License
-
-Resume Analyzer is released under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-# **Follow**
-Feel free to reach out if you have any questions or need further assistance.
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/karthikeyanrathinam/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karthikeyan-rathinam/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@linkagethink)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:karthikeyanr1801@gmail.com)
